@@ -1,0 +1,8 @@
+1) перейти Doc.../spring.../resouses
+2) запустить
+   mongod --dbpath dump/msr14/
+3) открыть новую консоль
+4) перейти Doc.../spring.../resouses
+5) запустить 
+   mongorestore
+6) ждать...
